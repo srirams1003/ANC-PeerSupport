@@ -153,7 +153,10 @@ p
 body
 {
     color: #554D45;
-    padding: 100px 480px 100px;
+    padding-left: 0px;
+    padding-right: 100px;
+    padding-top: 30px;
+    padding-bottom: 30px;
     font-family: Helvetica;
     font-style: normal;
     font-weight: normal;
