@@ -52,6 +52,7 @@ p
     display: flex;
     justify-content: center;
     color: #554D45;
+    box-shadow: 2px 4px 7px rgba(0, 0, 0, 0.15);
 }
 
 .class_four
@@ -69,6 +70,7 @@ p
     display: flex;
     justify-content: center;
     color: #554D45;
+    box-shadow: 2px 4px 7px rgba(0, 0, 0, 0.15);
 }
 
 .class_five
@@ -147,21 +149,22 @@ p
     color: #554D45;
     top: 50%;
     left: 50%;
+    box-shadow: 2px 4px 7px rgba(0, 0, 0, 0.15);
 }
 
 
-/*body
+body
 {
-    color: #554D45;
+    /*color: #554D45;
     padding-left: 0px;
     padding-right: 100px;
     padding-top: 30px;
     padding-bottom: 30px;
     font-family: Helvetica;
     font-style: normal;
-    font-weight: normal;
-    font-size: 18px;
-}*/
+    font-weight: light;
+    font-size: 16px;*/
+}
 
 img
 {
