@@ -4,4 +4,5 @@ Built a webpage with HTML and CSS for the Autism and Neurodiversity Community (A
 
 ### Final Page
 
-![alt text](https://raw.githubusercontent.com/srirams1003/ANC-PeerSupport/blob/master/PageSS.png)
+![alt text](https://raw.githubusercontent.com/srirams1003/ANC-PeerSupport/master/PageSS.png)
+
